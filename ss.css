@@ -1,0 +1,120 @@
+body
+{
+    background: #0d1424;
+    font: Arial, sans-serif;
+    color:#666;
+}
+.jumbotron
+{
+    background: none;
+}
+#heading1
+{
+    font:bold 90px/100% Chiller;
+    color: #fff;
+    padding-bottom: 1em;
+    text-decoration: none;
+}
+#heading2
+{
+    font:italic 20px/100% serif;
+    color:white;
+    position: absolute;
+}
+.navbar
+{
+    margin-top: -30px;
+}
+.navbar .nav>li>a
+{
+    color:white;
+    text-shadow: none;
+}
+.navbar .nav>li>a:hover
+{
+    color:white;
+}
+.navbar .nav .active>a
+{
+    color:white;
+    background: none;
+}
+.navbar .nav .active>a:hover
+{
+    background: none;
+}
+
+#content
+{
+    background: white;
+    margin: 15px;
+    padding: 10px;
+    text-align: justify;
+    float: left;
+}
+.post
+{
+    margin-bottom:40px;
+}
+.post-title
+{
+    margin:0 0 5px;
+    padding:0;
+    font:bold 16px/120% Arial, Helvetica, sans-serif;
+}
+.post-title a
+{
+    text-decoration: none;
+    color:#000;
+    
+}
+.post-meta
+{
+    margin:0 0 10px;
+    font-size: 90%;
+}
+.post-image
+{
+    margin:0 0 15px;
+}
+#sidebar
+{
+     margin: 15px;
+    padding: 10px;
+    float:right;
+    text-align: justify;
+    background:#fff;
+}
+.widget
+{
+    background: white;
+    padding:10px 20px;
+}
+.widgettitle
+{
+    margin:0 0 5px;
+    padding: 0;
+}
+img
+{
+    max-width: 100%;
+    height: auto;
+}
+.video object
+{
+    padding-right: 10px;
+    max-width: 100%;
+    height: auto;
+    width: 100%;
+}
+.clearfix:after
+{
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+.clearfix{display: inline-block;}
+.clearfix{display: block;zoom:1;}

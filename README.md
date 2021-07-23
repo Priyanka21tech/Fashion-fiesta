@@ -1,2 +1,3 @@
 # Fashion-fiesta
-It will work on Bootstrap IDE.
+This a responsive website created using Html, CSS3 , javascript .
+IDE used- BRACKETS 
